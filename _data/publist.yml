@@ -12,17 +12,17 @@
   description:
   authors:
   link:
-    url: doi:
+    url:
     display:
   higlight: 1
 
 
 - title: "Expression reflects population structure"
   description: We apply canonical correlation analysis to principal components of genotype and expression, revealing under-appreciate population structure in expression data.
-  authors: B.C. Brown, AGEN-T2D, C. Ye, A.L. Price and N. Zaitlen
+  authors: B.C. Brown, N.L. Bray and L. Pachter
   link:
-    url: doi: 10.1016/j.ajhg.2016.05.001
-    display: Am J Hum Genet. 2016 Jul 7;99(1):76-88
+    url: doi:10.1371/journal.pgen.1007841
+    display: PLoS Genet. 2018 Dec 19;14(12)
   higlight: 1
 
 
@@ -30,7 +30,7 @@
   description: We consider the cross-population genetic correlation and use it to show that complex trait genetic effect sizes can vary substantially across populations throughout the genome.
   authors: B.C. Brown, AGEN-T2D, C. Ye, A.L. Price and N. Zaitlen
   link:
-    url: doi: 10.1016/j.ajhg.2016.05.001
+    url: doi:10.1016/j.ajhg.2016.05.001
     display: Am J Hum Genet. 2016 Jul 7;99(1):76-88
   higlight: 1
 

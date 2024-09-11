@@ -14,7 +14,7 @@
   link:
     url:
     display:
-  higlight: 1
+  highlight: 1
 
 
 - title: "Expression reflects population structure"
@@ -24,7 +24,7 @@
   link:
     url: doi:10.1371/journal.pgen.1007841
     display: PLoS Genet. 2018 Dec 19;14(12)
-  higlight: 1
+  highlight: 1
 
 
 - title: "Transethnic genetic correlation estimates from summary statistics"
@@ -33,5 +33,5 @@
   link:
     url: doi:10.1016/j.ajhg.2016.05.001
     display: Am J Hum Genet. 2016 Jul 7;99(1):76-88
-  higlight: 1
+  highlight: 1
 

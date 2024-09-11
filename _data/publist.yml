@@ -18,8 +18,8 @@
 
 
 - title: "Expression reflects population structure"
-  description: We apply canonical correlation analysis to principal components of genotype and expression, revealing under-appreciate population structure in expression data.
   image: ShotNoise.png
+  description: We apply canonical correlation analysis to principal components of genotype and expression, revealing under-appreciate population structure in expression data.
   authors: B.C. Brown, N.L. Bray and L. Pachter
   link:
     url: doi:10.1371/journal.pgen.1007841

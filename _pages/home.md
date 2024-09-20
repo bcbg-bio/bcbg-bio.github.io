@@ -5,7 +5,7 @@ excerpt: "BCBG at the University of Pennsylvania"
 sitemap: false
 permalink: /
 ---
-<!---
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -48,7 +48,7 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
---->
+-->
 
 We are a new research group housed in the [Division of Informatics](https://www.dbei.med.upenn.edu/informatics), [Deparment of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) at the [Univerisity of Pennsylvania](https://www.upenn.edu/) [Perelman School of Medicine](https://www.med.upenn.edu/).
 

@@ -10,10 +10,7 @@
 - title: "Multiset correlation and factor analysis enables exploratory analysis of multi-omic data"
   image: MCFA.png
   description: We introduce multi-set correlation and factor analysis (MCFA), an unsupervised integration method tailored to the unique challenges of high-dimensional genomics data that enables fast inference of shared and private factors. Applied to 614 diverse samples, we find samples cluster strongly by ancestry even in the absence of genetic information, and identify and interpret factors related to metabolic disease.
-  authors: B.C. Brown, C. Wang†, S. Kasela, F. Aguet, D.C. Nachun, K.D. Taylor, R.P. Tracy, P. Durda,
-Y. Liu, W.C. Johnson, D. Van Den Berg, N. Gupta, S. Gabriel, J.D. Smith, R. Gerzsten, C. Clish,
-Q. Wong, G. Papanicolau, T.W. Blackwell, J.I. Rotter, S.S. Rich, R.G Barr, K.G. Ardlie, D.A.
-Knowles, and T. Lappalainen
+  authors: B.C. Brown, C. Wang†, S. Kasela, F. Aguet, D.C. Nachun, K.D. Taylor, R.P. Tracy, P. Durda, Y. Liu, W.C. Johnson, D. Van Den Berg, N. Gupta, S. Gabriel, J.D. Smith, R. Gerzsten, C. Clish, Q. Wong, G. Papanicolau, T.W. Blackwell, J.I. Rotter, S.S. Rich, R.G Barr, K.G. Ardlie, D.A. Knowles, and T. Lappalainen
   link:
     url: https://doi.org/10.1016/j.xgen.2023.100359
     display:  Cell Genom. 2023 Jul 10;3(8):100359

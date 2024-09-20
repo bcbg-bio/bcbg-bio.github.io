@@ -1,4 +1,4 @@
-- title: Large-scale causal discovery using interventional data sheds light on the regulatory network architecture of blood traits.
+- title: "Large-scale causal discovery using interventional data sheds light on the regulatory network architecture of blood traits"
   image: inspre.png
   description: We introduce inverse sparse regression (inspre), an approach to learning causal networks that leverages large-scale intervention-response data. Applied to 788 genes from the genome-wide perturb-seq dataset, inspre helps elucidate the network architecture of blood traits.
   authors: B.C. Brown*, J.A. Morris, T. Lappalainen, D.A. Knowles

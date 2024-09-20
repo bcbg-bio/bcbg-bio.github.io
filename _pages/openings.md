@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "BCBG - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,34 +8,20 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+We are recruiting talented scientists at all levels to work problems at the interface of machine learning, systems biology, functional genomics and statistical genetics. Projects often involve high-dimensional "big data" analysis; integration of data across ancestry, modality, or phenotype; development of novel analysis methods, particularly within causal inference or machine learning; and/or collaboration with experimental groups. **We strongly support individuals seeking collaborative or co-mentorship relationships with other groups at Penn**.
 
-We are  looking for new group members with passion, talent, and grit!
+Individuals with a strong background in statistics or machine learning, as well as individuals with a strong background in biological or phenotypic data collection and analysis are encouraged to apply. In the latter case, co-mentorship arrangements may allow for an experimental component to your time in the group. We also have extensive experience teaching and mentoring trainees from marginalized communities. **Individuals with backgrounds that are traditionally underreprestend in science are strongly encouraged to apply**.
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+## Post-doctoral and staff positions
 
-### Past open positions
+We are hiring up to two post-doctoral researchers. Our job ad is [here](). Outstanding applicants with at least 3 years post-doctoral experience may be considered for a staff scientist position (official ad forthcoming). If appropriate, please indicate your interest in such a position in the cover letter.
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+## Graduate student positions
+### PhD Students
+Currently we take PhD students from the [Graduate Group in Genomics and Computational Biology](https://www.med.upenn.edu/gcb/) and the [Graduate Group in Epidemiology and Biostatistics](https://www.med.upenn.edu/ggeb/). Current undergraduate or masters students interested in joining the group as a PhD student should apply to one of these two programs and indicate interest in their application. Current Penn PhD students in these and other programs should feel free to reach out.
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### Masters Students
+We typically have room to support 1-2 MSc students from the [Master of Biomedical Informatics](https://www.med.upenn.edu/mbmi/about.html) or [Master of Biostatistics](https://www.med.upenn.edu/ggeb/about-biostatistics.html) programs. Current Penn MSc students should feel free to reach out.
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+## Undergraduate student positions
+We typically have room to support 1-2 undergraduate students full-time in the summer and/or part-time during the semester. Undergraduate students will usually be paired with postdocs or senior graduate students, depending on availability. Support can come in the form of various summer programs at Penn, independent study course credit towards degree requirements, work-study, or directly from the group. Current Penn undergraduate students should feel free to reach out.

@@ -1,15 +1,11 @@
 ---
-title: "Allan Lab - Home"
+title: "BCBG - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "BCBG at the University of Pennsylvania"
 sitemap: false
 permalink: /
 ---
-
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
-
-
+<!---
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -52,27 +48,23 @@ More details to follow.
     <span class="sr-only">Next</span>
   </a>
 </div>
+--->
 
+We are a new research group housed in the [Division of Informatics](https://www.dbei.med.upenn.edu/informatics), [Deparment of Biostatistics, Epidemiology and Informatics](https://www.dbei.med.upenn.edu/) at the [Univerisity of Pennsylvania](https://www.upenn.edu/) [Perelman School of Medicine](https://www.med.upenn.edu/).
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+Our group is broadly interested in the development and application of statistical and computational methods in genetics and genomics with a focus on complex traits. We are particularly interested in large-scale exploratory data analysis, causal inference, ‘omic data integration, and cross-ancestry analysis. We use these techniques to analyse medically-linked genetic and multi-omic studies, single-cell sequencing and CRISPR-based screen data with the goal of understanding the mechanism of complex, common disease. The long-term goal of our group is to build large-scale, causally-grounded, multifactorial disease models that can be used to predict intervention effects, identify key pathways and ultimately enable precision medicine.
 
+Our group benefits tremendously from the broad and robust genomics community at Penn. In particular: the [Penn Institute for Biomedical Informatics](https://ibi.med.upenn.edu/), the [Penn Center for Causal Inference](https://www.dbeicoe.med.upenn.edu/cci/about-us), and the [Center for Statistics in Biomedical Big Data](https://www.dbeicoe.med.upenn.edu/csbd). We collaborate with researchers from departments across the Univeristy including: biostatistics, genetics, statistics, computer science, psychiatry and more.
 
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
+We are grateful to the NIH NHRGI, Penn DBEI, Penn IBI, and Penn Department of Genetics for their generous inital support of our group.
 
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+ **We are looking for trainees and staff at all levels** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DBEI.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IBI.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NHGRI.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Genetics.png" style="width: 110px">
 </figure>

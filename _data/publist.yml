@@ -1,11 +1,52 @@
+- title: Large-scale causal discovery using interventional data sheds light on the regulatory network architecture of blood traits.
+  image: inspre.png
+  description: We introduce inverse sparse regression (inspre), an approach to learning causal networks that leverages large-scale intervention-response data. Applied to 788 genes from the genome-wide perturb-seq dataset, inspre helps elucidate the network architecture of blood traits.
+  authors: B.C. Brown*, J.A. Morris, T. Lappalainen, D.A. Knowles
+  link: 
+    url: https://doi.org/10.1101/2023.10.13.562293 
+    display: bioRxiv 10.1101/2023.10.13.562293
+  highlight: 1
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Multiset correlation and factor analysis enables exploratory analysis of multi-omic data"
+  image: MCFA.png
+  description: We introduce multi-set correlation and factor analysis (MCFA), an unsupervised integration method tailored to the unique challenges of high-dimensional genomics data that enables fast inference of shared and private factors. Applied to 614 diverse samples, we find samples cluster strongly by ancestry even in the absence of genetic information, and identify and interpret factors related to metabolic disease.
+  authors: B.C. Brown, C. Wang†, S. Kasela, F. Aguet, D.C. Nachun, K.D. Taylor, R.P. Tracy, P. Durda,
+Y. Liu, W.C. Johnson, D. Van Den Berg, N. Gupta, S. Gabriel, J.D. Smith, R. Gerzsten, C. Clish,
+Q. Wong, G. Papanicolau, T.W. Blackwell, J.I. Rotter, S.S. Rich, R.G Barr, K.G. Ardlie, D.A.
+Knowles, and T. Lappalainen
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://doi.org/10.1016/j.xgen.2023.100359
+    display:  Cell Genom. 2023 Jul 10;3(8):100359
+  highlight: 1
+
+
+- title: "Welch-weighted Egger regression reduces false positives due to correlated pleiotropy in Mendelian randomization."
+  image: WWER.png
+  description: We develop a way to rapidly screen for putatively causal effects in biobank-scale data.
+  authors: B.C. Brown and D. A. Knowles
+  link:
+    url: https://doi.org/10.1016/j.ajhg.2021.10.006
+    display:  Am J Hum Genet. 2021 Dec 2;108(12):2319-2335
+  highlight: 1
+
+
+- title: "Expression reflects population structure"
+  image: PCCA.png
+  description: We apply canonical correlation analysis to principal components of genotype and expression, revealing under-appreciate population structure in expression data.
+  authors: B.C. Brown, N.L. Bray and L. Pachter
+  link:
+    url: https://doi.org/10.1371/journal.pgen.1007841
+    display: PLoS Genet. 2018 Dec 19;14(12)
+  highlight: 1
+
+
+- title: "Transethnic genetic correlation estimates from summary statistics"
+  image: popcorn.png
+  description: We consider the cross-population genetic correlation and use it to show that complex trait genetic effect sizes can vary substantially across populations throughout the genome.
+  authors: B.C. Brown, AGEN-T2D, C. Ye, A.L. Price and N. Zaitlen
+  link:
+    url: https://doi.org/10.1016/j.ajhg.2016.05.001
+    display: Am J Hum Genet. 2016 Jul 7;99(1):76-88
   highlight: 1
 
 - title:
@@ -15,23 +56,3 @@
     url:
     display:
   highlight: 1
-
-
-- title: "Expression reflects population structure"
-  image: ShotNoise.png
-  description: We apply canonical correlation analysis to principal components of genotype and expression, revealing under-appreciate population structure in expression data.
-  authors: B.C. Brown, N.L. Bray and L. Pachter
-  link:
-    url: doi:10.1371/journal.pgen.1007841
-    display: PLoS Genet. 2018 Dec 19;14(12)
-  highlight: 1
-
-
-- title: "Transethnic genetic correlation estimates from summary statistics"
-  description: We consider the cross-population genetic correlation and use it to show that complex trait genetic effect sizes can vary substantially across populations throughout the genome.
-  authors: B.C. Brown, AGEN-T2D, C. Ye, A.L. Price and N. Zaitlen
-  link:
-    url: doi:10.1016/j.ajhg.2016.05.001
-    display: Am J Hum Genet. 2016 Jul 7;99(1):76-88
-  highlight: 1
-

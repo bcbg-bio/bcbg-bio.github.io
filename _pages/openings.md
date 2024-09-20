@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-We are recruiting talented scientists at all levels to work problems at the interface of machine learning, systems biology, functional genomics and statistical genetics. Projects often involve high-dimensional "big data" analysis; integration of data across ancestry, modality, or phenotype; development of novel analysis methods, particularly within causal inference or machine learning; and/or collaboration with experimental groups. **We strongly support individuals seeking collaborative or co-mentorship relationships with other groups at Penn**.
+**We are recruiting talented scientists at all levels to work problems at the interface of machine learning, systems biology, functional genomics and statistical genetics.** Projects often involve high-dimensional "big data" analysis; integration of data across ancestry, modality, or phenotype; development of novel analysis methods, particularly within causal inference or machine learning; and/or collaboration with experimental groups. **We strongly support individuals seeking collaborative or co-mentorship relationships with other groups at Penn**.
 
 Individuals with a strong background in statistics or machine learning, as well as individuals with a strong background in biological or phenotypic data collection and analysis are encouraged to apply. In the latter case, co-mentorship arrangements may allow for an experimental component to your time in the group. We also have extensive experience teaching and mentoring trainees from marginalized communities. **Individuals with backgrounds that are traditionally underreprestend in science are strongly encouraged to apply**.
 
@@ -18,7 +18,7 @@ We are hiring up to two post-doctoral researchers. Our job ad is [here](). Outst
 
 ## Graduate student positions
 ### PhD Students
-Currently we take PhD students from the [Graduate Group in Genomics and Computational Biology](https://www.med.upenn.edu/gcb/) and the [Graduate Group in Epidemiology and Biostatistics](https://www.med.upenn.edu/ggeb/). Current undergraduate or masters students interested in joining the group as a PhD student should apply to one of these two programs and indicate interest in their application. Current Penn PhD students in these and other programs should feel free to reach out.
+We are affiliated with the [Graduate Group in Genomics and Computational Biology](https://www.med.upenn.edu/gcb/) and the [Graduate Group in Epidemiology and Biostatistics](https://www.med.upenn.edu/ggeb/). Current undergraduate or masters students interested in joining the group as a PhD student should apply to one of these two programs and indicate interest in their application. Current Penn PhD students in these and other programs should feel free to reach out.
 
 ### Masters Students
 We typically have room to support 1-2 MSc students from the [Master of Biomedical Informatics](https://www.med.upenn.edu/mbmi/about.html) or [Master of Biostatistics](https://www.med.upenn.edu/ggeb/about-biostatistics.html) programs. Current Penn MSc students should feel free to reach out.

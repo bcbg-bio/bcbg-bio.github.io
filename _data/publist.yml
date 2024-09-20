@@ -1,3 +1,10 @@
+- title: "Interaction molecular QTL mapping discovers cellular and environmental modifiers of genetic regulatory effects"
+  authors: S. Kasela, F. Aguet, S. Kim-Hellmuth, B.C. Brown, D.C. Nachun, R.P. Tracy, P. Durda, Y. Liu, K.D. Taylor, W.C. Johnson, D. Van Den Berg, S. Gabriel, N. Gupta, J.D. Smith, T.W. Blackwell, J.I. Rotter, K.G. Ardlie, A. Manichaikul, S.S. Rich, R.G. Barr and T Lappalainen 
+  link:
+    url: https://doi.org/10.1016/j.ajhg.2023.11.013
+    display:  Am J Hum Genet. 2024 Jan 4;111(1):133-149. 
+  highlight: 0
+
 - title: "Large-scale causal discovery using interventional data sheds light on the regulatory network architecture of blood traits"
   image: inspre.png
   description: We introduce inverse sparse regression (inspre), an approach to learning causal networks that leverages large-scale intervention-response data. Applied to 788 genes from the genome-wide perturb-seq dataset, inspre helps elucidate the network architecture of blood traits.
@@ -26,6 +33,19 @@
     display:  Am J Hum Genet. 2021 Dec 2;108(12):2319-2335
   highlight: 1
 
+- title: "Phenome-scale causal network discovery with bidirectional mediated Mendelian randomization"
+  authors: B.C. Brown and D.A. Knowles
+  link:
+    url: https://doi.org/10.1101/2020.06.18.160176
+    display: bioRxiv 10.1101/2020.06.18.160176
+  highlight: 0
+
+- title: "Comparative genetic architectures of schizophrenia in East Asian and European populations"
+  authors: M. Lam, C. Chen, Z. Li, A.R. Martin, J. Bryois, X. Ma, H. Gaspar, M. Ikeda, B. Benyamin, B.C. Brown, R. Liu, W. Zhou, L. Guan, Y. Kamatani, S. Kim, M. Kubo, A.A.A.A. Kusumawardhani, C. Liu, H. Ma, S. Periyasamy, A. Takahashi, Z. Xu, H. Yu, F. Zhu, Schizophrenia Working Group of the Psychiatric Genomics Consortium, Indonesia Schizophrenia Consortium, Genetic REsearch on schizophreniA neTwork-China and the Netherlands (GREAT-CN), W.J. Chen, S. Faraone, S.J. Glatt, L. He, S.E. Hyman, H. Hwu, S.A. McCarroll, B.M. Neale, P. Sklar, D.B. Wildenauer, X. Yu, D. Zhang, B.J. Mowry, J. Lee, P. Holmans, S. Xu, P.F. Sullivan, S. Ripke, M.C. O’Donovan, M.J. Daly, S. Qin, P. Sham, N. Iwata, K.S. Hong, S.G. Schwab, W. Yue, M. Tsuang, J. Liu, X. Ma, R.S. Kahn, Y. Shi and H. Huang
+  link:
+    url: https://doi.org/0.1038/s41588-019-0512-x
+    display:  Nat Genet. 2019 Dec;51(12):1670-1678
+  highlight: 0
 
 - title: "Expression reflects population structure"
   image: PCCA.png
@@ -36,6 +56,12 @@
     display: PLoS Genet. 2018 Dec 19;14(12)
   highlight: 1
 
+- title: "Estimating cross-population genetic correlations of causal effect sizes"
+  authors: K.J. Galinsky, Y.A. Reshef, H.K. Finucane, P. Loh, N. Zaitlen, N.J. Patterson, B.C. Brown and A.L. Price
+  link:
+    url: https://doi.org/10.1002/gepi.22173
+    display:  Genet Epidemiol. 2019 Mar;43(2):180-188
+  highlight: 0
 
 - title: "Transethnic genetic correlation estimates from summary statistics"
   image: popcorn.png
@@ -46,10 +72,37 @@
     display: Am J Hum Genet. 2016 Jul 7;99(1):76-88
   highlight: 1
 
-- title:
-  description:
-  authors:
+- title: "Local joint testing improves power and identifies both missing and spurious heritability in association studies"
+  authors: B.C. Brown, A.L. Price, N.A. Patsopolous and N. Zaitlen 
+  link: 
+    url: https://doi.org/10.1534/genetics.116.188292
+    display:  Genetics. 2016 Jul;203(3):1105-16
+  highlight: 0
+
+- title: "Adapt-Mix: Learning local genetic correlation structure improves summary statistics based analyses"
+  authors: D. Park, B.C. Brown, C. Eng, S. Huntsman, D. Hu, D. Torgerson, E. Burchard and N. Zaitlen
   link:
-    url:
-    display:
-  highlight: 1
+    url: https://doi.org/10.1093/bioinformatics/btv230
+    display:  Bioinformatics. 2015 Jun 15;31(12):i181-9
+  highlight: 0
+
+- title: "Fast segment insertion and incremental construction of constrained Delaunay triangulations"
+  authors: J. R. Shewchuk and B.C. Brown
+  link:
+    url: https://doi.org/10.1016/j.comgeo.2015.04.006
+    display: Comp Geom. 2015 Sept; 48(8):554-574
+  highlight: 0
+
+- title: "The Computational Difficulty of Computing the Density of States"
+  authors: B.C. Brown, S. T. Flammia, N. Schuch
+  link:
+    url: https://doi.org/10.1103/physrevlett.107.040501
+    display:  Phys Rev Lett. 2011 Jul 22;107(4):040501
+  highlight: 0
+
+- title: "Considerations For The Optimal Polarization of 3He Targets"
+  authors: B.C. Brown
+  link:
+    url: https://doi.org/10.1063/1.3215787
+    display: AIP Conf Proc. 2009; 1149:895–898
+  highlight: 0

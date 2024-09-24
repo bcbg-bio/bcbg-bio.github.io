@@ -12,11 +12,19 @@ permalink: /vacancies
 
 Individuals with a strong background in statistics or machine learning, as well as individuals with a strong background in biological or phenotypic data analysis are encouraged to apply. In the latter case, co-mentorship arrangements may allow for an experimental component to your time in the group. We also have extensive experience teaching and mentoring trainees from marginalized communities. **Individuals with backgrounds that are traditionally underreprestend in science are strongly encouraged to apply**.
 
-## Post-doctoral and staff positions
+## Staff positions
 
+### Postdoctoral researchers or staff scientists
 We are hiring up to two post-doctoral researchers. To apply, please send a cover letter summarizing your accomplishments, skillset and interest in our group; your CV and one representative manuscript to brielin DOT brown AT pennmedicine DOT upenn DOT edu. 
 
 Outstanding applicants with at least 3 years post-doctoral experience may be considered for a staff scientist position (official ad forthcoming). If appropriate, please indicate your interest in such a position in the cover letter.
+
+### Post-baccalaureate researchers or data analyst/software engineers
+We are seeking one outstanding post-baccalaureate data analyst or software engineer. Requirements include a BS/BS in a quantitative subject or biology with an emphasis on computational biology and experience with R or Python programming languages.
+
+This can serve as an excellent chance to get hands-on research and/or coding experience before seeking further education or industry employment. If interested please send a cover letter summarizing your skillset, interest in our group and career goals; and your CV to brielin DOT brown AT pennmedicine DOT upenn DOT edu. 
+
+If interested please your CV and one representative manuscript to brielin DOT brown AT pennmedicine DOT upenn DOT edu.
 
 ## Graduate student positions
 ### PhD Students

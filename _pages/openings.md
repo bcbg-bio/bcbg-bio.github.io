@@ -22,9 +22,8 @@ Outstanding applicants with at least 3 years post-doctoral experience may be con
 ### Post-baccalaureate researchers or data analyst/software engineers
 We are seeking one outstanding post-baccalaureate data analyst or software engineer. Requirements include a BS/BS in a quantitative subject or biology with an emphasis on computational biology and experience with R or Python programming languages.
 
-This can serve as an excellent chance to get hands-on research and/or coding experience before seeking further education or industry employment. If interested please send a cover letter summarizing your skillset, interest in our group and career goals; and your CV to brielin DOT brown AT pennmedicine DOT upenn DOT edu. 
+This can serve as an excellent chance to get hands-on research and/or coding experience before seeking further education or industry employment. If interested please send a cover letter summarizing your skillset, interest in our group and career goals; and your CV to brielin DOT brown AT pennmedicine DOT upenn DOT edu. Official job ad forthcoming.
 
-If interested please your CV and one representative manuscript to brielin DOT brown AT pennmedicine DOT upenn DOT edu.
 
 ## Graduate student positions
 ### PhD Students

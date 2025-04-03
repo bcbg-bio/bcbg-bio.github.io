@@ -15,7 +15,7 @@ Individuals with a strong background in statistics or machine learning, as well 
 ## Staff positions
 
 ### Postdoctoral researchers or staff scientists
-We are hiring up to two post-doctoral researchers. To apply, please send a cover letter summarizing your accomplishments, skillset and interest in our group; your CV and one representative manuscript to brielin DOT brown AT pennmedicine DOT upenn DOT edu. 
+We are hiring a post-doctoral researcher. To apply, please send a cover letter summarizing your accomplishments, skillset and interest in our group; your CV and one representative manuscript to brielin DOT brown AT pennmedicine DOT upenn DOT edu. 
 
 Outstanding applicants with at least 3 years post-doctoral experience may be considered for a staff scientist position (official ad forthcoming). If appropriate, please indicate your interest in such a position in the cover letter.
 

@@ -1,0 +1,8 @@
+- name: Seong Woo Han
+ photo: seong.jpeg
+ info: Seong is a 3rd year PhD student in the Computer Science department at UPenn. He is interested in statistical machine learning and applications of causal inference in genomics.
+ email: seonghan@seas.upenn.edu
+ number_educ: 2
+ education1: MA -- Statistics -- University of Pennsylvania
+ education2: BS -- Mathematics -- New York University
+ 

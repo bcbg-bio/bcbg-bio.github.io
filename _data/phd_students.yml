@@ -1,8 +1,22 @@
 - name: Seong Woo Han
   photo: seong.jpeg
-  info: Seong is a 3rd year PhD student in the Computer Science department. He is interested in statistical machine learning and applications of causal inference in genomics.
+  info: Seong is a fourth year PhD student in the Computer Science department. He is interested in statistical machine learning and applications of causal inference in genomics.
   email: seonghan@seas.upenn.edu
   number_educ: 2
   education1: MA -- Statistics -- University of Pennsylvania
   education2: BS -- Mathematics -- New York University
+
+- name: Daniel Vo
+  photo: daniel.jpeg
+  info: Daniel Vo is a second year Genomics and Computational Biology PhD student. He is interested in genomic analysis and methods development, particularly in the context of neuropsychiatric disease. He is co-mentoered by Mike Gandal.
+  email: daniel.vo@pennmedicine.upenn.edu
+  number_educ: 1
+  education1: BS -- Computational and Systems Biology -- University of California Los Angeles
+
+- name: Sherry Xie
+  photo: sherry.jpeg
+  info: Sherry is a second year Genomics and Computational Biology PhD student. She is interested in population and statistical genetics. 
+  email: sherry.xie@pennmedicine.upenn.edu
+  number_educ: 1
+  education1: BA -- Cornell University
   

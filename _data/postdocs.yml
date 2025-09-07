@@ -1,0 +1,16 @@
+- name: Eleanor Zhang
+  photo: eleanor.png
+  info: Eleanor is a fellow of the Penn Center for Computational Biomedicine working with our group, Bogdan Pasaniuc and Mike Gandal. She is interested in developing statistical genetics methods to understand complex trait genetic mechanisms. 
+  email: brielin.brown@pennmedicine.upenn.edu
+  number_educ: 3
+  education1: PhD -- Biostatistics -- University of Southern California
+  education2: MS -- Biostatistics -- Columbia University
+  education3: BS -- Genetics and Genomics -- University of California Davis
+
+- name: Sumita Garai
+  photo: Sumita.jpg
+  info: Sumita is a postdoctoral fellow jointly mentored by Li Shen. She is interested in development and application of bioinformatic methods to neuroscience and immune disease.
+  email: garais@pennmedicine.upenn.edu
+  number_educ: 3
+  education1: PhD -- Maethematics -- Penn State University
+  education2: MS -- Mathematics -- Indian Statistical Institute Kolkata

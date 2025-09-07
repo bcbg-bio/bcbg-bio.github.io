@@ -14,7 +14,7 @@ Our group benefits tremendously from the broad and robust genomics community at 
 
 We are grateful to the NIH NHRGI, Penn DBEI, Penn IBI, and Penn Department of Genetics for their generous initial support of our group.
 
- **We are looking for trainees and staff at all levels** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for trainees and staff** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 

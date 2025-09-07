@@ -15,7 +15,7 @@ Individuals with a strong background in statistics or machine learning, as well 
 ## Staff positions
 
 ### Postdoctoral researchers
-We are always interested in talking to talented potential postdoctoral researchers. Exceptional candidates may be considered for a fellow position within the [Center for Computational Biomedicine] (https://www.med.upenn.edu/ccb/). To apply, please send a cover letter summarizing your accomplishments, skillset and interest in our group; your CV and one representative manuscript to brielin@upenn.edu.
+We are always interested in talking to talented potential postdoctoral researchers. Exceptional candidates may be considered for a fellow position within the [Center for Computational Biomedicine](https://www.med.upenn.edu/ccb/). To apply, please send a cover letter summarizing your accomplishments, skillset and interest in our group; your CV and one representative manuscript to brielin@upenn.edu.
 
 
 {::comment}
